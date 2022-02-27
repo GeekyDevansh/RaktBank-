@@ -1,10 +1,9 @@
 # Link of hosted project : https://raktbank.xyz/
 
 # Link of Youtube Video : https://youtu.be/t-wiX6toTxw
-![Screenshot (143)![Screenshot (146)](https://user-images.githubusercontent.com/90106517/155896183-2d968c99-9d97-4f82-b905-787b772532d0.png)
+
 ![Screenshot (147)](https://user-images.githubusercontent.com/90106517/155896209-eaf3aa8c-723f-4c6e-beac-11968c17e26e.png)
 ![Screenshot (150)](https://user-images.githubusercontent.com/90106517/155896217-3910c16b-a79f-4b79-b706-24b9a1e56149.png)
-](https://user-images.githubusercontent.com/90106517/155896146-d8befb17-c3e1-42e1-bbd6-0ea0704f4393.png)
 ![Screenshot (144)](https://user-images.githubusercontent.com/90106517/155896156-29eb250f-fc5c-4f32-862f-2ae85688ad1b.png)
 
 # TECH STACK USED
