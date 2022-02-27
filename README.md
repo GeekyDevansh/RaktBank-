@@ -1,25 +1,23 @@
-# Link of hosted project : https://raktbank.xyz/
+## Link of hosted project : https://raktbank.xyz/
 
-# Link of Youtube Video : https://youtu.be/t-wiX6toTxw
+## Link of Youtube Video : https://youtu.be/t-wiX6toTxw
 
-![Screenshot (147)](https://user-images.githubusercontent.com/90106517/155896209-eaf3aa8c-723f-4c6e-beac-11968c17e26e.png)
-![Screenshot (150)](https://user-images.githubusercontent.com/90106517/155896217-3910c16b-a79f-4b79-b706-24b9a1e56149.png)
-![Screenshot (144)](https://user-images.githubusercontent.com/90106517/155896156-29eb250f-fc5c-4f32-862f-2ae85688ad1b.png)
 
-# TECH STACK USED
-## HTML, CSS, JavaScript, ReactJS, Firebase, Figma
 
-# TEAM DETAILS:
-## Team Code: b5561fa7fd
-## Team Name: SophoDevs
-## IsFresher: False
+## TECH STACK USED
+#### HTML, CSS, JavaScript, ReactJS, Firebase, Figma
+
+## TEAM DETAILS:
+#### Team Code: b5561fa7fd
+#### Team Name: SophoDevs
+#### IsFresher: False
 
 # रक्तBANK
 रक्तBANK is an online portal for bridging the gap between blood donors & patients.
 
 ## PROBLEM: 
-# Every day 12,000 people in India die due to the sheer lack of donated blood. India collects 11 million units of blood but needs 15 million units, so there's a deficit of 4 million units. Over 40 districts in India don't have a single blood bank!
-# ~ The New Indian Express
+ Every day 12,000 people in India die due to the sheer lack of donated blood. India collects 11 million units of blood but needs 15 million units, so there's a deficit of 4 million units. Over 40 districts in India don't have a single blood bank!
+ ~ The New Indian Express
 
 ## SOLUTION:  
 
@@ -42,6 +40,12 @@ Some more pages like About & Contact us is added. Contact us will direct you to 
 
 1/3rd of the people on Earth are dyslexic.Even Albert Einstein was dyslexic. However not many websites are dyslexic friendly. We have a dyslexic mode which when enabled (by clicking on the radio button in the navbar) changes the state of all the components and make it comfortable for people with dyslexia to operate our website.
  
+![Screenshot (143)](https://user-images.githubusercontent.com/90106517/155896305-a5e3ea91-ca89-442b-9c3b-6b5e6202a6df.png)
+![Screenshot (144)](https://user-images.githubusercontent.com/90106517/155896156-29eb250f-fc5c-4f32-862f-2ae85688ad1b.png)
+![Screenshot (146)](https://user-images.githubusercontent.com/90106517/155896296-1ca20165-c456-4887-80f5-05f37305dd2e.png)
+![Screenshot (147)](https://user-images.githubusercontent.com/90106517/155896209-eaf3aa8c-723f-4c6e-beac-11968c17e26e.png)
+![Screenshot (150)](https://user-images.githubusercontent.com/90106517/155896217-3910c16b-a79f-4b79-b706-24b9a1e56149.png)
+
 
 
 
