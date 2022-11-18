@@ -40,7 +40,7 @@ function Donate({mode}) {
               <div className="upper" key={doc.id} >
                   <div className="dname">Patient Name : <br/> <b> {doc.pName} </b> </div><hr/>
                   <div className="dbloodgrp">Blood Group : <br/><b>{doc.bloodGroup}</b></div><hr/>
-                  <div className="dhospitaladdress">Hospital Address :<br/> <b> {doc.hAddress}</b></div><br/><hr/>
+                  <div className="dhospitaladdress">Hospital Address :<br/> <div className='hAddress' > {doc.hAddress}</div></div><br/><hr/>
                   <div className="dcontact">Contact No. : <br/><b>{doc.contactNo}</b></div>
               </div>
           
