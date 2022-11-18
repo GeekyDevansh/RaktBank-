@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+## Link of hosted project : https://raktbank.xyz/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Link of Youtube Video : https://youtu.be/t-wiX6toTxw
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+## TECH STACK USED
+#### HTML, CSS, JavaScript, ReactJS, Firebase, Figma
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## TEAM DETAILS:
+#### Team Code: b5561fa7fd
+#### Team Name: SophoDevs
+#### IsFresher: False
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# रक्तBANK
+रक्तBANK is an online portal for bridging the gap between blood donors & patients.
 
-### `npm test`
+## PROBLEM: 
+ Every day 12,000 people in India die due to the sheer lack of donated blood. India collects 11 million units of blood but needs 15 million units, so there's a deficit of 4 million units. Over 40 districts in India don't have a single blood bank!
+ ~ The New Indian Express
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## SOLUTION:  
 
-### `npm run build`
+Here on this portal, the blood donors can directly see the details of patients in need and can help them. We aim to make this portal as mainstream as a blood bank.Through this portal the donors would feel content about the fact that their donation helped someone in front of their eyes.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### So, with the motto – “Be the reason someone’s heart beats strong”, here is रक्तBank for you all
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## DESCRIPTION OF IDEA
+On opening the website link, you will see a google oAuth page where you can login through your google account to continue to the website.
+ 
+On signing in you would reach the homepage with a user friendly & attractive UI. There you would be able to choose either from Need Help or Donate. On scrolling down, you will find the eligibility and benefits of blood donation. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+On clicking need help, you may find a form to fill the details (patient name , hospital address , blood group , contact number) . The website is dynamic and collects user data in real time, stores it in the firestore and fetches the data in the donate section.
 
-### `npm run eject`
+Again, going back to home page & clicking donate button you will find different patient cards where you can see registered info and can contact one of them (the one who is near your location and has the same blood group as yours) to proceed further.
+ 
+Some more pages like About & Contact us is added. Contact us will direct you to a google form where you can write your details and message.
+ 
+## DYSLEXIC FRIENDLY MODE
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1/3rd of the people on Earth are dyslexic.Even Albert Einstein was dyslexic. However not many websites are dyslexic friendly. We have a dyslexic mode which when enabled (by clicking on the radio button in the navbar) changes the state of all the components and make it comfortable for people with dyslexia to operate our website.
+ 
+![Screenshot (143)](https://user-images.githubusercontent.com/90106517/155896305-a5e3ea91-ca89-442b-9c3b-6b5e6202a6df.png)
+![Screenshot (144)](https://user-images.githubusercontent.com/90106517/155896156-29eb250f-fc5c-4f32-862f-2ae85688ad1b.png)
+![Screenshot (146)](https://user-images.githubusercontent.com/90106517/155896296-1ca20165-c456-4887-80f5-05f37305dd2e.png)
+![Screenshot (147)](https://user-images.githubusercontent.com/90106517/155896209-eaf3aa8c-723f-4c6e-beac-11968c17e26e.png)
+![Screenshot (150)](https://user-images.githubusercontent.com/90106517/155896217-3910c16b-a79f-4b79-b706-24b9a1e56149.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
